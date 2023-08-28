@@ -1,0 +1,14 @@
+30-Aug-22-16:34:48, iniciando proceso de extracción
+30-Aug-22-16:34:50, extrayendo precio de la unidad UPCH.1bbb
+30-Aug-22-16:34:53, precio de la unidad UPCH.1bbb extraído
+30-Aug-22-16:34:53, extrayendo precio de la unidad UPCH.1bcb
+30-Aug-22-16:34:56, precio de la unidad UPCH.1bcb extraído
+30-Aug-22-16:34:56, extrayendo precio de la unidad UPCH.1bca
+30-Aug-22-16:34:58, precio de la unidad UPCH.1bca extraído
+30-Aug-22-16:34:58, extrayendo precio de la unidad UPCH.1aaa
+30-Aug-22-16:35:01, precio de la unidad UPCH.1aaa extraído
+30-Aug-22-16:35:01, proceso de extracción finalizado
+30-Aug-22-16:35:01, generando archivo de CSV con códigos y precios
+30-Aug-22-16:35:01, archivo CSV generado
+Tiempo total de ejecución sin esperas: 1.2029360000000002s
+Tiempo total de ejecución con esperas: 0:00:13.034141
